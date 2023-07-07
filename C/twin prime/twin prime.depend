@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688562946 source:y:\desktop\programing\c\twin prime\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
