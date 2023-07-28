@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688722862 source:y:\desktop\programing\c\stammering\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
